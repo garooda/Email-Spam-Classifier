@@ -12,4 +12,4 @@ Photo By - [geralt-9301](https://pixabay.com/users/geralt-9301/)
 - [Code](#code)
 
 #### Introduction to Naive Bayes
-Naive Bayes is a classification algorithm based on Bayes theorem
+Naive Bayes is a classification algorithm based on Bayes theorem. It works with conditional probability that's why it is also called as probabilistic algorithm. Naive Bayes is simple, intuitive but yet powerful algorithm which gives acceptable results in many cases.
