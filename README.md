@@ -22,3 +22,5 @@ For example:
 * Event B is that this individual will be given dormitory housing. Dormitory housing will only be provided for 60% of all of the accepted students.
 * P (Accepted and dormitory housing) = P (Dormitory Housing | Accepted) P (Accepted) = (0.60)*(0.80) = 0.48.
 
+#### Code
+Jupyter python notebook is available at nbviewer
