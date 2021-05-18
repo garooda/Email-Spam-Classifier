@@ -24,3 +24,5 @@ For example:
 
 #### Code
 Jupyter python notebook is available at [nbviewer](https://nbviewer.jupyter.org/github/garooda/Email-Spam-Classifier/blob/main/email_classifier.ipynb)
+
+Download the dataset from [here](https://github.com/garooda/Email-Spam-Classifier/blob/main/emails.csv)
