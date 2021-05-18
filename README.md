@@ -23,4 +23,4 @@ For example:
 * P (Accepted and dormitory housing) = P (Dormitory Housing | Accepted) P (Accepted) = (0.60)*(0.80) = 0.48.
 
 #### Code
-Jupyter python notebook is available at nbviewer(https://nbviewer.jupyter.org/github/garooda/Email-Spam-Classifier/blob/main/email_classifier.ipynb)
+Jupyter python notebook is available at [nbviewer](https://nbviewer.jupyter.org/github/garooda/Email-Spam-Classifier/blob/main/email_classifier.ipynb)
