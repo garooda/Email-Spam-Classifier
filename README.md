@@ -1,4 +1,4 @@
-# Email-Spam-Classifier
+# Gankara
 
 ### Email Spam Classifier Using Naive Bayes Algorithm
 
