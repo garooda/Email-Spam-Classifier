@@ -32,4 +32,22 @@ Download the dataset from [here](https://github.com/garooda/Email-Spam-Classifie
 ```python3
 import pandas as pd
 import numpy as np
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.model_selection import train_test_split
+```
+
+##### loading the dataset
+
+```python3
+df = pd.read_csv("emails.csv")
+```
+
+##### data preprocessing and gathering info about the dataset
+```python3
+df.shape      #checking the number of the data points
+
+df[df.label == 0].count() #checking the number of data points belonging to class 0 i.e. ham
+
+df[df.label == 1].count() #checking the number of data points belonging to class 1 i.e. spam
 ```
