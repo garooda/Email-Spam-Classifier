@@ -2,6 +2,8 @@
 
 ### Email Spam Classifier Using Naive Bayes Algorithm
 
+Gankara is a simple to use email spam classifier that protects your inbox from junk. The AI behind Gankara applies advanced machine learning models to classify individual e-mails as spam or not-spam using email content only.
+
 ![Logo](https://cdn.pixabay.com/photo/2014/09/28/10/38/road-sign-464657_960_720.png)
 
 Photo By - [geralt-9301](https://pixabay.com/users/geralt-9301/)
