@@ -12,7 +12,7 @@ Photo By - [geralt-9301](https://pixabay.com/users/geralt-9301/)
 - [Code](#code)
 
 #### Introduction to Naive Bayes
-Naive Bayes is a classification algorithm based on Bayes theorem. It works with conditional probability that's why it is also called as probabilistic algorithm. Naive Bayes is simple, intuitive but yet powerful algorithm which gives acceptable results in many cases.
+Classification is one of the core task of machine learning that is widely used in various applications like spam filtering, medical diagnosis, fraud detection, website navigation path prediction etc. Naive Bayes algorithm belongs to the family of probabilistic classifiers and it assumes that each feature/ attribute (vector) is conditionally independent given the class value, and that the conditional distributions are Gaussian.
 
 #### Conditional Probability
 Conditional probability is defined as the likelihood of an event or outcome occurring, based on the occurrence of a previous event or outcome. Conditional probability is calculated by multiplying the probability of the preceding event by the updated probability of the succeeding, or conditional, event. 
